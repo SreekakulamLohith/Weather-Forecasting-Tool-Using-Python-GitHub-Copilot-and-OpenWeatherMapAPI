@@ -8,7 +8,11 @@ Keywords: GitHub Copilot, Python, OpenWeatherAPI, Weather Forecasting, Visual St
 
 ![2023-05-29 (1)](https://github.com/SreekakulamLohith/Weather-Forecasting-Tool-Using-Python-GitHub-Copilot-and-OpenWeatherMapAPI/assets/105136506/74a80de3-8c7f-45dc-a90d-f0faf9018d90)
 
+NOTE: You should get your own API from OpenWeatherMapAPI website and it is freely available upto certain usage and for this project you can use the freely availbel API in OpenWeatherMapAPI website.
+
+
 USAGE OF GITHUB COPILOT
+
 Set up Development Environment:
 Install Visual Studio Code (VS Code) or any other compatible IDE that supports GitHub Copilot.
 Install the GitHub Copilot extension in your IDE. This extension provides the AI-powered code completion and suggestion features.
